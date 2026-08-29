@@ -1,10 +1,12 @@
 # Data Structures & Algorithms
 
-A collection of Data Structures and Algorithms implementations written in **C**.
+A collection of Data Structures and Algorithms implementations in C, created as part of my continuous learning and practice in programming, problem-solving, and algorithmic thinking.
 
-This repository contains my implementations and practice programs covering fundamental concepts in data structures, algorithms, problem-solving, and programming fundamentals.
+## Overview
 
-## 📚 Topics Covered
+This repository contains implementations of fundamental data structures, algorithms, and problem-solving techniques. It reflects my hands-on practice and my effort to strengthen programming fundamentals through implementation.
+
+## Topics Covered
 
 - Linked Lists
 - Stacks
@@ -13,35 +15,61 @@ This repository contains my implementations and practice programs covering funda
 - Searching Algorithms
 - Sorting Algorithms
 - Recursion
-- Infix, Postfix & Expression Conversion
+- Expression Conversion
 - Parenthesis Checking
 - GCD
 - Tower of Hanoi
 - Sparse Matrix
-- CPU Scheduling Algorithms
+- CPU Scheduling
 
-## 💻 Language
+## Technologies
 
-- C
+**Programming Language:** C
 
-## 🛠️ Development Environment
+**Development Tools:** GCC · Visual Studio Code · Git · GitHub
 
-- GCC Compiler
-- VS Code
-- Git & GitHub
+## Repository Structure
 
-## 🎯 Purpose
+```text
+DSA/
+│
+├── BST.c
+├── GCD.c
+├── TOH.c
+├── fcfs.c
+├── infix.c
+├── infixtopostfix.c
+├── linked list.c
+├── parenthesis_checker.c
+├── queue_SP.c
+├── sparse_matrix.c
+│
+└── README.md
+## Purpose
 
-The purpose of this repository is to strengthen my understanding of **Data Structures, Algorithms, and problem-solving using C** through hands-on implementation and practice.
+The purpose of this repository is to develop a strong foundation in **Data Structures and Algorithms** through practical implementation and consistent practice.
 
-## 🚀 Learning Focus
+It focuses on understanding how data structures work, developing logical and algorithmic thinking, improving problem-solving skills, and strengthening my ability to implement concepts independently using **C**.
 
-- Understanding how data structures work internally
-- Improving algorithmic thinking
+## Learning Focus
+
+- Understanding the fundamentals of data structures and algorithms
 - Developing efficient problem-solving approaches
-- Writing clean and structured C programs
-- Strengthening programming fundamentals
+- Strengthening C programming concepts
+- Improving algorithmic and logical thinking
+- Learning to write structured and readable code
+- Building a foundation for advanced computer science concepts
 
-## 📈 Progress
+## Progress
 
-This repository represents my ongoing learning journey in **Data Structures & Algorithms**. More implementations and problems will be added as I continue learning.
+This repository represents my ongoing learning journey in **Data Structures and Algorithms**.
+
+As I learn new concepts, I continue to add implementations, improve existing programs, and refine my understanding through practice.
+
+## Future Goals
+
+- Expand my knowledge of advanced data structures and algorithms
+- Improve code efficiency and organization
+- Practice more complex problem-solving techniques
+- Apply DSA concepts to practical programming problems
+- Strengthen algorithmic thinking for technical interviews
