@@ -17,7 +17,7 @@ NODE insertend(NODE start, int row, int col, int item)
     temp->data=item;
     temp->next=NULL;
     temp->prev=NULL;
-    if(start=NULL)
+    if(start==NULL)
     {
         return temp;
     }
