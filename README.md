@@ -30,19 +30,18 @@ This repository contains my implementations and practice programs covering funda
 - VS Code
 - Git & GitHub
 
-## 📂 Repository Structure
+## 🎯 Purpose
 
-```text
-Data-Structures-and-Algorithms/
-│
-├── BST.c
-├── GCD.c
-├── TOH.c
-├── fcfs.c
-├── infix.c
-├── infixtopostfix.c
-├── linked_list.c
-├── parenthesis_checker.c
-├── queue_SP.c
-├── sparse_matrix.c
-└── README.md
+The purpose of this repository is to strengthen my understanding of **Data Structures, Algorithms, and problem-solving using C** through hands-on implementation and practice.
+
+## 🚀 Learning Focus
+
+- Understanding how data structures work internally
+- Improving algorithmic thinking
+- Developing efficient problem-solving approaches
+- Writing clean and structured C programs
+- Strengthening programming fundamentals
+
+## 📈 Progress
+
+This repository represents my ongoing learning journey in **Data Structures & Algorithms**. More implementations and problems will be added as I continue learning.
